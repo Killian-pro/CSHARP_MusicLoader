@@ -1,0 +1,50 @@
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csprojAssemblyReference.cache
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP_NOTE.Form1.resources
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP_NOTE.Properties.Resources.resources
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.GenerateResource.cache
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\TP NOTE.exe.config
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\TP NOTE.exe
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\TP NOTE.pdb
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\Microsoft.Win32.Registry.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.Asio.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.Core.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.Midi.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.Wasapi.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.WinForms.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.WinMM.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\System.Security.AccessControl.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\System.Security.Principal.Windows.dll
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\Microsoft.Win32.Registry.xml
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\NAudio.xml
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\System.Security.AccessControl.xml
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\bin\Debug\System.Security.Principal.Windows.xml
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.CopyComplete
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.exe
+E:\DEV\C#\Fenetre\TP NOTE\TP NOTE\TP NOTE\obj\Debug\TP NOTE.pdb
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\TP NOTE.exe.config
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\TP NOTE.exe
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\TP NOTE.pdb
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\Microsoft.Win32.Registry.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.Asio.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.Core.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.Midi.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.Wasapi.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.WinForms.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.WinMM.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\System.Security.AccessControl.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\System.Security.Principal.Windows.dll
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\Microsoft.Win32.Registry.xml
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\NAudio.xml
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\System.Security.AccessControl.xml
+E:\DEV\C#\TP NOTE\TP NOTE\bin\Debug\System.Security.Principal.Windows.xml
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csprojAssemblyReference.cache
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP_NOTE.Form1.resources
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP_NOTE.Properties.Resources.resources
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.GenerateResource.cache
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.CoreCompileInputs.cache
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.csproj.CopyComplete
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.exe
+E:\DEV\C#\TP NOTE\TP NOTE\obj\Debug\TP NOTE.pdb
